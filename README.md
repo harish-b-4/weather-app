@@ -1,3 +1,4 @@
+HEAD
 
 # Weather App – React + Vite + Tailwind CSS
 
@@ -30,3 +31,7 @@ Lightweight and fast-loading
 Clean and modern UI
 
 Easy to extend with additional features like forecasts or geolocation
+
+# weather-app
+A responsive and interactive Weather App that allows users to check real-time weather information for any city using a public API. Built with React for the frontend, Vite for fast development, and Tailwind CSS for styling.
+ 0ff7f17117e5d364ec45e46fd01278a0207b10d0
